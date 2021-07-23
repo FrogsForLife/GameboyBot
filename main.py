@@ -50,7 +50,7 @@ async def b(ctx):
     await ctx.send("input B button")
     keyboard.press('M')
 
-client.run('ODY4MDE4MzUyMjk4Mjk1MzM2.YPpjFg.guLU13KfBc_SDp6qLk5KkKzD91A')
+client.run('What you looking for :)')
 
 
 
